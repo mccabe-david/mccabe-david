@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="headshot.jpeg" alt="David McCabe Headshot" width="200" style="border-radius: 50%">
+</p>
+
 # 👋 Hi, I’m David McCabe
 
 I'm a full-stack developer and entrepreneur passionate about building scalable products at the intersection of **fintech**, **crypto**, and **consumer tech**. I recently graduated from **Boston College** with a B.S. in Computer Science and minors in Mathematics and Finance.
@@ -29,14 +33,6 @@ Proficient with:
 - Python, React Native, Node.js, Flask, JavaScript
 - Google Cloud Platform, Docker, SQL, C++, Go, TEAL
 - Cryptography and blockchain development
-
-## 📊 GitHub Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mccabe-david&show_icons=true&theme=react&hide_border=true)
-
-## 🧑‍💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mccabe-david&layout=compact&theme=react&hide_border=true)
 
 ## 📫 Get in Touch
 
