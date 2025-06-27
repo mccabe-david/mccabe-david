@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="headshot.jpg" alt="David McCabe Headshot" width="200" style="border-radius: 10px;">
+</p>
+
 # 👋 Hi, I’m David McCabe
 
 I'm a full-stack developer and entrepreneur passionate about building scalable products at the intersection of **fintech**, **crypto**, and **consumer tech**. I recently graduated from **Boston College** with a B.S. in Computer Science and minors in Mathematics and Finance.
