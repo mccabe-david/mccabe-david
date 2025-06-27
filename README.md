@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="headshot.jpg" alt="David McCabe Headshot" width="200" style="border-radius: 10px;">
+  <img src="headshot.jpeg" alt="David McCabe Headshot" width="200" style="border-radius: 10px;">
 </p>
 
 # 👋 Hi, I’m David McCabe
