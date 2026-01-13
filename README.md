@@ -8,7 +8,15 @@ I'm a full-stack developer and entrepreneur passionate about building scalable p
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mccabe-david&label=Visitors&color=0e75b6&style=flat)
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On Now
+
+### [Quill](https://quill.co/) – Founding Eng
+A customer-facing analytics app with:
+-Fully customizable React components ( No iframes )
+-AI Chat for fast data analysis
+-Secure Self-hosting options
+
+## 🚀 Side Projects / Past Work
 
 ### [CBites](https://cbites.co) – Founder / CEO  
 A food delivery app with:
