@@ -12,9 +12,9 @@ I'm a full-stack developer and entrepreneur passionate about building scalable p
 
 ### [Quill](https://quill.co/) – Founding Eng
 A customer-facing analytics app with:
--Fully customizable React components ( No iframes )
--AI Chat for fast data analysis
--Secure Self-hosting options
+- Fully customizable React components ( No iframes )
+- AI Chat for fast data analysis
+- Secure Self-hosting options
 
 ## 🚀 Side Projects / Past Work
 
